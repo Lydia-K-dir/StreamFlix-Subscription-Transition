@@ -24,15 +24,15 @@ Who are the ideal candidates for conversion?
 
 ## Insights
 
-🧑‍🤝‍🧑 Demographics
+### 🧑‍🤝‍🧑Demographics
 
 Core User Base: Ages 26–50.
 
-Top Countries: Canada, USA, India, Italy, France, UK.
+Countries: Canada, USA, India, Italy, France, UK.
 
 Gender Distribution: 72% male, 28% female.
 
-📈 User Engagement Metrics
+### 📈User Engagement Metrics
 
 Subscribers contribute 49% of total watch time.
 
@@ -40,7 +40,7 @@ Majority of users fall into medium engagement (41.3%) and low engagement (38.1%)
 
 Focus on converting medium-engagement free users who are active but not yet paying.
 
-🎥 Content Preferences
+### 🎥Content Preferences
 
 Male Users: Strong preference for Action, followed by Sci-Fi and Drama.
 
@@ -48,7 +48,8 @@ Female Users: Prefer Romance, Comedy, and Drama.
 
 Top Devices: Mobile is the most used device, followed by Smart TVs and Tablets.
 
-commendations
+
+## Recommendations
 
 Focus conversion campaigns on users aged 21–50.
 
